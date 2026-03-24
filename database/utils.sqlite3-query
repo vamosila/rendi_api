@@ -1,0 +1,5 @@
+-- database: ../database.sqlite
+
+SELECT * FROM visits;
+
+delete from visits;
